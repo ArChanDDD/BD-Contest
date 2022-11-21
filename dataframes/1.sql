@@ -19,7 +19,7 @@ insert into Town values
 	(4, 'Texas', 'США'),
 	(5, 'Dallas', 'США'),
 	(6, 'Beijing', 'Китай'),
-	(7, 'Paris', 'France');
+	(7, 'Paris', 'Франция');
 
 create table if not exists Spaceship_part(
 	id int PRIMARY KEY,
