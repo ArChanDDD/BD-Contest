@@ -4,7 +4,7 @@ create table credit_outcomes (
   hope int -- hope points
 );
 
-insert into credit_oucomes values
+insert into credit_outcomes values
 	(34, '5432-12-16 00:00:00', 1),
 	(59, '1921-01-27 00:00:00', 1),
 	(66, '2018-04-03 23:00:00', 19),
